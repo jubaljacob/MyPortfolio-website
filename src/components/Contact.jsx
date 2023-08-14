@@ -69,7 +69,7 @@ const Contact = () => {
   };
 
   const handleResumeClick = () => {
-    window.open("https://drive.google.com/file/d/1akeDIf2R_WnZL23TFc_nm2GiLE96ADCB/view?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/1W7O1L_3_LekFdIzGbz72jaPhZIXAy91A/view?usp=sharing", "_blank");
   };
 
   return (

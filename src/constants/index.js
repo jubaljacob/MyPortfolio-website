@@ -8,6 +8,7 @@ import {
   java,
   html,
   opencv,
+  // phases,
   mediapipe,
   css,
   uoh,
@@ -196,6 +197,17 @@ const experiences = [
       "Developed a real-time model for translating Sign Language into Text.",
       "Formulated a novel project proposal for a system that integrates Sign Language recognition with emotion recognition, enabling Speech Generation.",
       "Participated in code reviews, proposed the project plan, and delivered presentations to faculties and professors.",
+    ],
+  },
+  {
+    title: "Web Development Intern",
+    company_name: "Phases, India",
+    // icon: phases,
+    iconBg: "#E6DEDD",
+    date: "June 2023 - July 2023",
+    points: [
+      "Worked on building an Ecommerce platform, utilizing React.js for the frontend and Django framework for the backend, and participated in the full software development lifecycle, including requirement analysis, design, coding, testing, and deployment.",
+      "Integrated essential features like product listing, shopping cart, user authentication, and secure payment processing for a seamless shopping experience while also implementing an advanced user login system based on facial recognition technology using Machine Learning and OpenCV."
     ],
   },
 ];
